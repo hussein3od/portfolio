@@ -199,6 +199,9 @@ a {
 /* ABOUT */
 .about {
   padding: 48px 18px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .about .about-text {
   margin-top: 18px;
@@ -255,6 +258,9 @@ a {
   grid-template-columns: 1fr;
   gap: 16px;
   justify-items: center;
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
 }
 @media (min-width: 720px) {
   .projects-container {
@@ -362,6 +368,9 @@ a {
   gap: 14px;
   justify-items: center;
   align-items: start;
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .cert-card {
@@ -485,6 +494,9 @@ a {
   grid-template-columns: 1fr;
   gap: 16px;
   justify-items: center;
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .contact-card {
   background: #12172a;
